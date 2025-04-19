@@ -1,0 +1,8 @@
+name,x,y,annualTurnover,type,street,townX,townY,townZ,townName
+ITMO,3,-4,,PUBLIC,,,,,
+D,-4,5,2.2,COMMERCIAL,address,1,1,1,location
+3,3,3,,TRUST,3,,,,
+ITMO,4,5,,TRUST,Cronva,,,,
+f,5,5,,TRUST,,,,,
+name,3,4,,COMMERCIAL,,,,,
+name,3,4,,COMMERCIAL,,,,,
